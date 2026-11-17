@@ -48,3 +48,5 @@ bit-for-bit repeatable. To retrain them (optional): `python -m mtah.deep.train`.
 | `run_all.sh` | rebuilds everything from scratch, one step per process |
 | `weights/deep_players.pt` | committed deep model weights |
 | `docs/technical_report.pdf` | the technical report |
+
+Licensed for evaluation by the More Than A Hack 2027 organisers; contact the authors for other uses.
