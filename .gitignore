@@ -1,0 +1,16 @@
+# competition data and anything derived from it must never be committed (competition rules)
+data/
+cache/
+models/
+out/
+*.npz
+*.pkl
+*.mp4
+*.csv
+# open data is cloned separately (see README)
+sample-data/
+# python / editor
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
